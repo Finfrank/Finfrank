@@ -18,6 +18,15 @@
 
 - 💕 _ARPG,JRPG_ and _FPS_ Lover.
 
-- 🎮 Welcome To ->
+- 🎮 Welcome To -->
 
+<p align="right">
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Finfrank&theme=tokyonight&show_icons=true&hide==prs,issues,contribs" />
+
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finfrank&theme=tokyonight&show_icons=true" />
+
+</p>
+
+---
+⭐️ From [Finfrank](https://github.com/Finfrank)
