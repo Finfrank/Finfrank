@@ -9,6 +9,13 @@
 - 🤔 I’m currently working on...
   - _Wechat_ Miniprogram. **(Learning)**
   
-  - _Unity_ Game Design & Programming. **(Pending..)**
+  - _Unity_ & _Unreal_ Game Design & Programming. **(Pending..)**
   
-- ⚡ Fun fact: ...
+<!--## ⚡ Fun fact
+- 😏 A Enthusiastic Fan of Console Games.
+
+- 💕 _ARPG,JRPG_ and _FPS_ Lover.
+
+- 🎮 Welcome To ->
+
+
