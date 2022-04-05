@@ -20,13 +20,8 @@
 
 - 🎮 Welcome To -->
 
-<p align="right">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Finfrank&theme=tokyonight&show_icons=true&hide==prs,issues,contribs" />
-
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Finfrank&theme=tokyonight&show_icons=true" />
-
-</p>
+![Finfrank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finfrank&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finfrank&layout=compact&theme=vue)
 
 ---
 ⭐️ From [Finfrank](https://github.com/Finfrank)
