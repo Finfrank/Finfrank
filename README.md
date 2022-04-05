@@ -9,7 +9,7 @@
 - 🤔 I’m currently working on...
   - _Wechat_ Miniprogram. **(Learning)**
   
-  - _Unity_ & _Unreal_ Game Design & Programming. **(Pending..)**
+  - _Unity_ & _Unreal_ Game Design and Programming. **(Pending..)**
   
 - 🎮 A Enthusiastic Player of Console Games.
 
