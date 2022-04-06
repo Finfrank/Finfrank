@@ -2,7 +2,7 @@
 
 
 
-- 😎 🇨🇳**Freshman**, _Bsc in Computer Science._
+- 😎 🇨🇳**Freshman**.
 - 🌱 C++ / Python / Html5 / Css / Javascript / Vue...
 
 
