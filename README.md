@@ -1,11 +1,8 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Yoo, there! 👀
 
+- 🌱 C++ / Python / Javascript / Php / ...
 
-
-- 😎 🇨🇳**Freshman**.
-- 🌱 C++ / Python / Html5 / Css / Javascript / Vue...
-
-
+<!--
 - 🤔 I’m currently working on...
   - _Wechat_ Miniprogram. **(Learning)**
   
@@ -13,7 +10,7 @@
   
 - 🎮 A Enthusiastic Player of Console Games.
 
-<!--## ⚡ Fun fact
+## ⚡ Fun fact
 - 😏 A Enthusiastic Fan of Console Games.
 
 - 💕 _ARPG,JRPG_ and _FPS_ Lover.
