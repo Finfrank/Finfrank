@@ -1,5 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Yoo, there! 👀
-- 😏 Freshman
+
 - 🌱 C++ / Python / Javascript / ...
 
 <!--
