@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Yoo, there! 👀
 
-- 🌱 C++ / Python / Javascript / PHP / ...
+- 🌱 C++ / Python / Javascript / ...
 
 <!--
 - 🤔 I’m currently working on...
@@ -17,7 +17,7 @@
 
 - 🎮 Welcome To -->
 
-##![Finfrank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finfrank&show_icons=true&theme=vue&hide=prs,issues,contribs)
+<!--![Finfrank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finfrank&show_icons=true&theme=vue&hide=prs,issues,contribs)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finfrank&layout=compact&theme=vue)
 
 
