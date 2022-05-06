@@ -8,8 +8,6 @@
   
   - _Unity_ & _Unreal_ Game Design and Programming. **(Pending..)**
   
-- 🎮 A Enthusiastic Player of Console Games.
-
 ## ⚡ Fun fact
 - 😏 A Enthusiastic Fan of Console Games.
 
